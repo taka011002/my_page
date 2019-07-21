@@ -1,11 +1,9 @@
 <template>
   <div id="app">
+    <myHeader></myHeader>
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
     </div>
     <router-view/>
-    <button class="btn btn-primary">test</button>
   </div>
 </template>
 
@@ -28,3 +26,24 @@
   }
 }
 </style>
+
+<script>
+  import myHeader from './components/Header'
+
+  export default {
+    components: {
+      myHeader
+    },
+    data () {
+      return {
+        msg: 'Hello World!'
+      }
+    },
+    methods: {
+      clear () {
+        this.msg = ''
+      }
+    }
+  }
+
+</script>
