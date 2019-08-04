@@ -3,7 +3,7 @@
     <header><myHeader></myHeader></header>
     <div id="nav">
     </div>
-    <b-container style="padding-top: 70px;">
+    <b-container>
       <about-me id="about-me" class="content"></about-me>
       <skills id="skills" class="content"></skills>
       <experiences id="experiences" class="content"></experiences>
@@ -38,9 +38,8 @@ table.spacing-table{
   border-spacing: 20px 20px;
 }
 .content{
-  margin-bottom: 100px;
+  padding-top: 70px;
 }
-
 
 </style>
 
