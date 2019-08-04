@@ -10,6 +10,11 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 Vue.use(BootstrapVue)
 /* bootstrap */
 
+/* vue-smoothscroll */
+import smoothScroll from 'vue-smoothscroll'
+Vue.use(smoothScroll)
+/* vue-smoothscroll */
+
 Vue.config.productionTip = false
 
 new Vue({

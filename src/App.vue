@@ -1,9 +1,16 @@
 <template>
   <div id="app">
-    <myHeader></myHeader>
+    <header><myHeader></myHeader></header>
     <div id="nav">
     </div>
-    <router-view/>
+    <b-container style="padding-top: 70px;">
+      <about-me id="about-me" class="content"></about-me>
+      <skills id="skills" class="content"></skills>
+      <experiences id="experiences" class="content"></experiences>
+      <portfolio id="portfolio" class="content"></portfolio>
+      <links id="links" class="content"></links>
+<!--      <router-view/>-->
+    </b-container>
   </div>
 </template>
 
@@ -25,14 +32,34 @@
     }
   }
 }
+
+table.spacing-table{
+  border-collapse: separate;
+  border-spacing: 20px 20px;
+}
+.content{
+  margin-bottom: 100px;
+}
+
+
 </style>
 
 <script>
   import myHeader from './components/Header'
+  import skills from './views/Skills'
+  import aboutMe from './views/AboutMe'
+  import experiences from './views/Experiences'
+  import portfolio from './views/Portfolio'
+  import links from './views/Links'
 
   export default {
     components: {
-      myHeader
+      myHeader,
+      skills,
+      aboutMe,
+      experiences,
+      portfolio,
+      links
     },
     data () {
       return {
