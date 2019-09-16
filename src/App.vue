@@ -6,8 +6,9 @@
     <b-container style="padding-top: 70px;">
       <about-me id="about-me" class="content"></about-me>
       <skills id="skills" class="content"></skills>
-      <experiences id="experiences" class="content"></experiences>
-      <portfolio id="portfolio" class="content"></portfolio>
+      <interns id="interns" class="content"></interns>
+<!--      <experiences id="experiences" class="content"></experiences>-->
+<!--      <portfolio id="portfolio" class="content"></portfolio>-->
       <links id="links" class="content"></links>
 <!--      <router-view/>-->
     </b-container>
@@ -47,18 +48,20 @@ table.spacing-table{
 <script>
   import myHeader from './components/Header'
   import skills from './views/Skills'
+  import interns from './views/Interns'
   import aboutMe from './views/AboutMe'
-  import experiences from './views/Experiences'
-  import portfolio from './views/Portfolio'
+  // import experiences from './views/Experiences'
+  // import portfolio from './views/Portfolio'
   import links from './views/Links'
 
   export default {
     components: {
       myHeader,
       skills,
+      interns,
       aboutMe,
-      experiences,
-      portfolio,
+      // experiences,
+      // portfolio,
       links
     },
     data () {

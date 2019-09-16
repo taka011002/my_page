@@ -11,8 +11,9 @@
                     <b-navbar-nav>
                         <b-nav-item @click="smoothScroll('about-me')">About Me</b-nav-item>
                         <b-nav-item @click="smoothScroll('skills')">Skills</b-nav-item>
-                        <b-nav-item @click="smoothScroll('experiences')">Experiences</b-nav-item>
-                        <b-nav-item @click="smoothScroll('portfolio')">Portfolio</b-nav-item>
+                        <b-nav-item @click="smoothScroll('interns')">Interns</b-nav-item>
+<!--                        <b-nav-item @click="smoothScroll('experiences')">Experiences</b-nav-item>-->
+<!--                        <b-nav-item @click="smoothScroll('portfolio')">Portfolio</b-nav-item>-->
                         <b-nav-item @click="smoothScroll('links')">Links</b-nav-item>
                     </b-navbar-nav>
                 </b-navbar-nav>
