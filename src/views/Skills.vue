@@ -25,7 +25,7 @@
                                     <p>基本情報技術者試験</p>
 
                                 <h4 class="font-weight-bold">興味あり</h4>
-                                    <p>設計パターン, Clean Architecture, DDD(ドメイン駆動開発), Kubernetes, Microservice</p>
+                                    <p>設計パターン | Clean Architecture | DDD(ドメイン駆動開発) | Kubernetes | Microservice</p>
                        </b-card-text>
                     </b-card-body>
                 </b-card>
