@@ -5,7 +5,7 @@
         <b-card no-body class="overflow-hidden mx-auto">
           <b-row no-gutters>
             <b-col md="6">
-              <b-card-img src="profile_image.gif" class="profile-image" style="max-width: 400px;"></b-card-img>
+              <b-card-img src="profile_image.jpg" class="profile-image" style="max-width: 400px;"></b-card-img>
             </b-col>
             <b-col md="6">
               <b-card-body title="About Me">
