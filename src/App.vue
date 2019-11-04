@@ -5,10 +5,11 @@
     </div>
     <b-container>
       <about-me id="about-me" class="content"></about-me>
+      <thought id="thought" class="content"></thought>
       <skills id="skills" class="content"></skills>
       <interns id="interns" class="content"></interns>
 <!--      <experiences id="experiences" class="content"></experiences>-->
-<!--      <portfolio id="portfolio" class="content"></portfolio>-->
+      <portfolio id="portfolio" class="content"></portfolio>
       <links id="links" class="content"></links>
 <!--      <router-view/>-->
     </b-container>
@@ -17,7 +18,7 @@
 
 <style lang="scss">
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -46,21 +47,23 @@ table.spacing-table{
 
 <script>
   import myHeader from './components/Header'
+  import thought from './views/Thought'
   import skills from './views/Skills'
   import interns from './views/Interns'
   import aboutMe from './views/AboutMe'
   // import experiences from './views/Experiences'
-  // import portfolio from './views/Portfolio'
+  import portfolio from './views/Portfolio'
   import links from './views/Links'
 
   export default {
     components: {
       myHeader,
       skills,
+      thought,
       interns,
       aboutMe,
       // experiences,
-      // portfolio,
+      portfolio,
       links
     },
     data () {
