@@ -18,7 +18,7 @@
                                 </b-col>
                                 <b-col cols="4">
                                     <b-link href="https://www.facebook.com/takahiro.ishitsuka.9">
-                                        <b-img src="icons/facebook_logo_png" style="max-width: 100px;"></b-img>
+                                        <b-img src="icons/facebook_logo.png" style="max-width: 100px;"></b-img>
                                     </b-link>
                                 </b-col>
                             </b-row>
