@@ -1,7 +1,8 @@
 # my_page
 
 ## About
-takahiro's portfolio site
+takahiro's portfolio site  
+https://taka011002.github.io/my_page/
 
 ## How to run
 
