@@ -1,34 +1,43 @@
 # my_page
 
-## Project setup
+## About
+takahiro's portfolio site
+
+## How to run
+
+### docker-compose 
+```bash
+$ docker-compose build
+$ docker-compose up -d
+$ docker-compose exec app sh
+$ npm run serve # in container
+$ open "http://localhost:8080/my_page/"
+```
+
+### docker
+```bash
+$ docker build -t taka_my_page .
+$ docker run -v `pwd`:/usr/src -p 8080:8080 --name my_page --rm -it -d taka_my_page
+$ docker exec -it my_page sh
+$ npm run serve # in container
+$ open "http://localhost:8080/my_page/"
+```
+
+### local
+
+#### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
