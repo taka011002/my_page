@@ -11,7 +11,11 @@
                                     <strong>2019年<br> ポートフォリオサイト(現在のページ)</strong>
                                 </b-col>
                                 <b-col sm="5">
-                                    <p>Vue.jsを用いてポートフォリオサイトを制作</p>
+                                    <p>Vue.jsを用いてポートフォリオサイトを制作<br>
+                                        GitHub Actionsを用いたCI/CD環境<br>
+                                        Github Pagesを用いてホスティング<br>
+                                    </p>
+                                    <b-img src="portfolio/my_page_deploy_flow.png" style="max-width: 100%;"></b-img>
                                 </b-col>
                                 <b-col sm="2">
                                     <a href="https://github.com/taka011002/my_page">Github</a>
@@ -41,7 +45,7 @@
                                     <p>Rails Tutorialにて学んだ知識のアウトプットとして、ショッピングサイトの構築を行った。</p>
                                 </b-col>
                                 <b-col sm="2">
-                                    <a href="https://github.com/taka011002/shopping-site">github</a>
+                                    <a href="https://github.com/taka011002/shopping-site">Github</a>
                                 </b-col>
                             </b-row>
 
@@ -54,7 +58,7 @@
                                     <p>Rails Tutorialにて、webアプリーケーションの大枠について学んだ。</p>
                                 </b-col>
                                 <b-col sm="2">
-                                    <a href="https://github.com/taka011002/rails_tutorial">github</a>
+                                    <a href="https://github.com/taka011002/rails_tutorial">Github</a>
                                 </b-col>
                             </b-row>
                         </b-card-text>
