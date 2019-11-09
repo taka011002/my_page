@@ -5,7 +5,7 @@
         <b-card no-body class="overflow-hidden mx-auto">
           <b-row no-gutters>
             <b-col md="4">
-              <b-card-img src="profile_image.jpg" class="profile-image" style="max-width: 350px;"></b-card-img>
+              <b-card-img fluid src="profile_image.jpg" class="profile-image" style="max-width: 100%;"></b-card-img>
             </b-col>
             <b-col md="8">
               <b-card-body>

@@ -26,7 +26,7 @@
                                 </tr>
 
                                 <tr>
-                                    <td><b-img src="portfolio/shopper.jpg" style="max-width: 400px;"></b-img></td>
+                                    <td><b-img src="portfolio/shopper.jpg" style="max-width: 100%;"></b-img></td>
                                     <td>Rails Tutorialにて学んだ知識のアウトプットとして、ショッピングサイトの構築を行った。</td>
                                     <td><a href="https://github.com/taka011002/shopping-site">github</a></td>
                                 </tr>
@@ -35,7 +35,7 @@
                                     <strong>2018年3月 Rails Tutorial</strong>
                                 </tr>
                                 <tr>
-                                    <td><b-img src="portfolio/rails_tutorial.jpg" style="max-width: 400px;"></b-img></td>
+                                    <td><b-img src="portfolio/rails_tutorial.jpg" style="max-width: 100%;"></b-img></td>
                                     <td>Rails Tutorialにて、webアプリーケーションの大枠について学んだ。</td>
                                     <td><a href="https://github.com/taka011002/rails_tutorial">github</a></td>
                                 </tr>
