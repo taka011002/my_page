@@ -41,4 +41,7 @@ npm run serve
 npm run build
 ```
 
+## Deploy flow
+![deploy_flow](deploy_flow.png)
+
 
