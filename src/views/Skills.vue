@@ -24,8 +24,8 @@
                                 <h4 class="font-weight-bold">Licence</h4>
                                     <p>基本情報技術者試験</p>
 
-                                <h4 class="font-weight-bold">興味あり(やりたい)</h4>
-                                    <p>設計パターン | Clean Architecture | DDD(ドメイン駆動開発) | Kubernetes | Microservice</p>
+<!--                                <h4 class="font-weight-bold">興味あり(やりたい)</h4>-->
+<!--                                    <p>設計パターン | Clean Architecture | DDD(ドメイン駆動開発) | Kubernetes | Microservice</p>-->
                        </b-card-text>
                     </b-card-body>
                 </b-card>
