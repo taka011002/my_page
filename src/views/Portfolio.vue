@@ -13,12 +13,12 @@
                                 <b-col sm="5">
                                     <p>Vue.jsを用いてポートフォリオサイトを制作<br>
                                         GitHub Actionsを用いたCI/CD環境<br>
-                                        Github Pagesを用いてホスティング<br>
+                                        GitHub Pagesを用いてホスティング<br>
                                     </p>
                                     <b-img src="portfolio/my_page_deploy_flow.png" style="max-width: 100%;"></b-img>
                                 </b-col>
                                 <b-col sm="2">
-                                    <a href="https://github.com/taka011002/my_page">Github</a>
+                                    <a href="https://github.com/taka011002/my_page">GitHub</a>
                                 </b-col>
                             </b-row>
 
@@ -31,8 +31,8 @@
                                 </b-col>
                                 <b-col sm="2">
                                     <a href="https://qiita.com/takahiro_ishitsuka/items/c8ed9c0aa4d3257fc7ee">Qiita</a><br>
-                                    <a href="https://github.com/taka011002/monolish">Github</a><br>
-                                    <a href="https://github.com/taka011002/firestore_test_ios">Github</a><br>
+                                    <a href="https://github.com/taka011002/monolish">GitHub</a><br>
+                                    <a href="https://github.com/taka011002/firestore_test_ios">GitHub</a><br>
                                 </b-col>
                             </b-row>
 
@@ -45,7 +45,7 @@
                                     <p>Rails Tutorialにて学んだ知識のアウトプットとして、ショッピングサイトの構築を行った。</p>
                                 </b-col>
                                 <b-col sm="2">
-                                    <a href="https://github.com/taka011002/shopping-site">Github</a>
+                                    <a href="https://github.com/taka011002/shopping-site">GitHub</a>
                                 </b-col>
                             </b-row>
 
@@ -58,7 +58,7 @@
                                     <p>Rails Tutorialにて、webアプリーケーションの大枠について学んだ。</p>
                                 </b-col>
                                 <b-col sm="2">
-                                    <a href="https://github.com/taka011002/rails_tutorial">Github</a>
+                                    <a href="https://github.com/taka011002/rails_tutorial">GitHub</a>
                                 </b-col>
                             </b-row>
                         </b-card-text>
