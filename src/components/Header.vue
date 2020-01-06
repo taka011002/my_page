@@ -10,7 +10,6 @@
                 <b-navbar-nav class="ml-auto">
                     <b-navbar-nav>
                         <b-nav-item @click="smoothScroll('about-me')">About Me</b-nav-item>
-                        <b-nav-item @click="smoothScroll('thought')">Thought</b-nav-item>
                         <b-nav-item @click="smoothScroll('skills')">Skills</b-nav-item>
                         <b-nav-item @click="smoothScroll('interns')">Interns</b-nav-item>
 <!--                        <b-nav-item @click="smoothScroll('experiences')">Experiences</b-nav-item>-->

@@ -7,12 +7,12 @@
                         <b-card-text style="text-align: left">
                             <h2 class="font-weight-bold pb-3">Interns</h2>
 
-                            <h5 class="font-weight-bold">株式会社Spectra 2019年8月～現在</h5>
+                            <h5 class="font-weight-bold">株式会社Spectra 2019年8月~2019年12月</h5>
                             <b-row class="pb-3">
                                 <b-col sm="12">
                                     <p>
                                         <strong>期間</strong><br>
-                                        2019年8月~現在<br>
+                                        2019年8月~2019年12月<br>
                                         <strong>内容</strong><br>
                                         チケット見逃し防止アプリ「Freax」の機能改善<br>
                                         【担当業務】<br>

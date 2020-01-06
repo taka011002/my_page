@@ -5,7 +5,6 @@
     </div>
     <b-container>
       <about-me id="about-me" class="content"></about-me>
-      <thought id="thought" class="content"></thought>
       <skills id="skills" class="content"></skills>
       <interns id="interns" class="content"></interns>
 <!--      <experiences id="experiences" class="content"></experiences>-->
@@ -47,7 +46,6 @@ table.spacing-table{
 
 <script>
   import myHeader from './components/Header'
-  import thought from './views/Thought'
   import skills from './views/Skills'
   import interns from './views/Interns'
   import aboutMe from './views/AboutMe'
@@ -59,7 +57,6 @@ table.spacing-table{
     components: {
       myHeader,
       skills,
-      thought,
       interns,
       aboutMe,
       // experiences,
