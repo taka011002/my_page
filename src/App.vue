@@ -9,6 +9,7 @@
       <interns id="interns" class="content"></interns>
 <!--      <experiences id="experiences" class="content"></experiences>-->
       <portfolio id="portfolio" class="content"></portfolio>
+      <other id="other" class="content"></other>
       <links id="links" class="content"></links>
 <!--      <router-view/>-->
     </b-container>
@@ -51,6 +52,7 @@ table.spacing-table{
   import aboutMe from './views/AboutMe'
   // import experiences from './views/Experiences'
   import portfolio from './views/Portfolio'
+  import other from './views/Other'
   import links from './views/Links'
 
   export default {
@@ -61,6 +63,7 @@ table.spacing-table{
       aboutMe,
       // experiences,
       portfolio,
+        other,
       links
     },
     data () {

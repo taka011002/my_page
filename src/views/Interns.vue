@@ -7,7 +7,8 @@
                         <b-card-text style="text-align: left">
                             <h2 class="font-weight-bold pb-3">Interns</h2>
 
-                            <h5 class="font-weight-bold">株式会社Spectra 2019年8月~2019年12月</h5>
+                            <a href="https://spectra.tokyo/"><h5 class="font-weight-bold">株式会社Spectra</h5></a>
+                            <h5>2019年8月~2019年12月</h5>
                             <b-row class="pb-3">
                                 <b-col sm="12">
                                     <p>
@@ -35,7 +36,8 @@
                                 </b-col>
                             </b-row>
 
-                            <h5 class="font-weight-bold">株式会社サイバーエージェント 2019年9月(3日間)</h5>
+                            <a href="https://www.cyberagent.co.jp/"><h5 class="font-weight-bold">株式会社サイバーエージェント</h5></a>
+                            <h5>2019年9月(3日間)</h5>
                             <b-row class="pb-3">
                                 <b-col sm="12">
                                     <p>
@@ -52,14 +54,18 @@
                                 </b-col>
                             </b-row>
 
-                            <h5 class="font-weight-bold">楽天株式会社 2019年9月(1週間)</h5>
+                            <a href="https://corp.rakuten.co.jp/"><h5 class="font-weight-bold">楽天株式会社</h5></a>
+                            <h5>2019年9月(1週間)</h5>
                             <b-row class="pb-3">
                                 <b-col sm="12">
                                     <p>
                                         <strong>期間</strong><br>
                                         2019年9月(1週間)<br>
                                         <strong>内容</strong><br>
-                                        “Empowerment for xxxx”のテーマの元、チームで新規サービスの企画、及び実装を行い優勝<br>
+                                        <a href="https://corp.rakuten.co.jp/careers/graduates/engineer/commerce/intern/2019/">公式ページ</a></br>
+                                        “Empowerment for xxxx”のテーマの元、チームで新規サービスの企画、及び実装を行い優勝</br>
+                                        具体的には、悩みを相談したい人と人の悩みを聞いてあげたい人をマッチングし、通話できるサービスを開発した。</br>
+                                        <a href="https://github.com/taka011002/suzukisan">GitHub</a></br>
                                         <strong>担当</strong><br>
                                         フロントエンド<br>
                                         サーバーサイド<br>
@@ -75,7 +81,8 @@
                                 </b-col>
                             </b-row>
                             
-                            <h5 class="font-weight-bold">フューチャー株式会社 2019年8月(2週間)</h5>
+                            <a href="https://www.future.co.jp/"><h5 class="font-weight-bold">フューチャー株式会社</h5></a>
+                            <h5>2019年8月(2週間)</h5>
                             <b-row class="pb-3">
                                 <b-col sm="12">
                                     <p>
@@ -103,7 +110,8 @@
                                 </b-col>
                             </b-row>
 
-                            <h5 class="font-weight-bold">Retty株式会社 2019年8月(1週間)</h5>
+                            <a href="https://retty.me/"><h5 class="font-weight-bold">Retty株式会社</h5></a>
+                            <h5>2019年8月(1週間)</h5>
                             <b-row class="pb-3">
                                 <b-col sm="12">
                                     <p>
@@ -120,14 +128,16 @@
                                 </b-col>
                             </b-row>
 
-                            <h5 class="font-weight-bold">株式会社ユニキャスト 2018年 5月〜2019年7月</h5>
+                            <a href="https://www.unicast.ne.jp/"><h5 class="font-weight-bold">株式会社ユニキャスト</h5></a>
+                            <h5>2018年 5月〜2019年7月</h5>
                             <b-row class="pb-3">
                                 <b-col sm="12">
                                     <p>
                                         <strong>期間</strong><br>
                                         2019年1月~2019年6月<br>
                                         <strong>内容</strong><br>
-                                        中古車購入サービスのiOSアプリ(Swift)、サーバーサイド(Rails)の立ち上げ及び設計、開発<br>
+                                        新規サービス(中古車購入サービス)のiOSアプリ(Swift)、サーバーサイド(Rails)の立ち上げ及び設計、開発<br>
+                                        企画にも参加し、競合調査や自分たちのサービスの強み等もサービス思考を持ち提案等行った。<br>
                                         <strong>担当</strong><br>
                                         サーバーサイド, ネイティブアプリ(iOS), クローラー<br>
                                         <strong>環境・言語</strong><br>
