@@ -66,7 +66,7 @@
                                         “Empowerment for xxxx”のテーマの元、チームで新規サービスの企画、及び実装を行い優勝<br>
                                         具体的には、悩みを相談したい人と人の悩みを聞いてあげたい人をマッチングし、通話できるサービスを開発した。<br>
                                         <a href="https://github.com/taka011002/suzukisan">GitHub</a><br>
-                                        <a href="https://suzukisan.herokuapp.com/">Demo</a><br>
+                                        <a href="https://suzukisan.herokuapp.com/">Demo</a>[TestUser]email: user1@example.com, password: password<br>
                                         <strong>担当</strong><br>
                                         フロントエンド<br>
                                         サーバーサイド<br>
