@@ -4,13 +4,12 @@
     <div id="nav">
     </div>
     <b-container>
-      <about-me id="about-me" class="content"></about-me>
-      <skills id="skills" class="content"></skills>
-      <interns id="interns" class="content"></interns>
-<!--      <experiences id="experiences" class="content"></experiences>-->
-      <portfolio id="portfolio" class="content"></portfolio>
-      <other id="other" class="content"></other>
-      <links id="links" class="content"></links>
+        <about-me id="about-me" class="content"></about-me>
+        <lazyBox><skills id="skills" class="content"></skills></lazyBox>
+        <lazyBox><interns id="interns" class="content"></interns></lazyBox>
+        <lazyBox><portfolio id="portfolio" class="content"></portfolio></lazyBox>
+        <lazyBox><other id="other" class="content"></other></lazyBox>
+        <lazyBox><links id="links" class="content"></links></lazyBox>
 <!--      <router-view/>-->
     </b-container>
   </div>
@@ -47,6 +46,7 @@ table.spacing-table{
 
 <script>
   import myHeader from './components/Header'
+  import lazyBox from './components/LazyBox'
   import skills from './views/Skills'
   import interns from './views/Interns'
   import aboutMe from './views/AboutMe'
@@ -61,6 +61,7 @@ table.spacing-table{
       skills,
       interns,
       aboutMe,
+      lazyBox,
       // experiences,
       portfolio,
         other,
