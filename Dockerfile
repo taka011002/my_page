@@ -9,4 +9,4 @@ RUN apk update && \
     npm install -g npm @vue/cli
 
 EXPOSE 8080
-CMD ["/bin/sh"]
+CMD ["npm", "run", "serve"]
