@@ -1,4 +1,4 @@
-# my_page
+# my_page ![](https://github.com/taka011002/my_page/workflows/production-deploy/badge.svg)
 
 ## About
 takahiro's portfolio site  
