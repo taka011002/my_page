@@ -18,8 +18,6 @@
 
 #app {
   font-family: 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', -apple-system, BlinkMacSystemFont, Roboto, '游ゴシック体', YuGothic, 'Yu Gothic Medium', sans-serif;  -webkit-font-smoothing: antialiased;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
 }
