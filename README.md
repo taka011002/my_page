@@ -11,7 +11,7 @@ https://taka011002.github.io/my_page/
 $ docker-compose build
 $ docker-compose up -d
 $ docker-compose exec app sh
-$ open "http://localhost:8080/my_page"
+$ open "http://localhost:8080"
 ```
 
 ### docker
@@ -19,7 +19,7 @@ $ open "http://localhost:8080/my_page"
 $ docker build -t taka_my_page .
 $ docker run -v `pwd`:/usr/src -p 8080:8080 --name my_page --rm -it -d taka_my_page
 $ docker exec -it my_page sh
-$ open "http://localhost:8080/my_page"
+$ open "http://localhost:8080"
 ```
 
 ### local
