@@ -16,6 +16,8 @@
 </template>
 
 <style lang="scss">
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+
 #app {
   font-family: 'Noto Sans JP', sans-serif;
   -webkit-font-smoothing: antialiased;
