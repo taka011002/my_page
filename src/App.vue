@@ -66,7 +66,17 @@ table.spacing-table{
       portfolio,
         other,
       links
-    }
+    },
+      data() {
+          return {
+              lazyImage: {
+                  center: true,
+                  fluidGrow: true,
+                  blank: true,
+                  blankColor: '#bbb',
+              }
+          }
+      }
   }
 
 </script>
