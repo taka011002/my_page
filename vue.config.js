@@ -1,6 +1,6 @@
 module.exports = {
     outputDir: 'docs',
-    publicPath: '/',
+    publicPath: '/my_page',
     configureWebpack: {
         optimization: {
             splitChunks: false
