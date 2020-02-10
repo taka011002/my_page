@@ -24,15 +24,21 @@
         }
     }
 </script>
-<style lang="sass" scoped>
-    .lazy-box
-        opacity: 0
-        transition: opacity 2s, transform 0.5s
-        @media (max-width: 1039px)
+
+<style lang="scss" scoped>
+    .lazy-box{
+        opacity: 0;
+        transition: opacity 2s, transform 0.5s;
+        @media (max-width: 1039px){
             transform: translateY(100px)
-        @media (min-width: 1040px)
+        }
+        @media (min-width: 1040px){
             transform: translateY(200px)
-        &.active
-            opacity: 1
-            transform: translateY(0)
+        }
+        &.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
 </style>

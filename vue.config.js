@@ -1,4 +1,12 @@
 module.exports = {
     outputDir: 'docs',
-    publicPath: '/'
+    publicPath: '/',
+    configureWebpack: {
+        optimization: {
+            splitChunks: false
+        }
+    },
+    css: {
+        extract: false,
+    }
 }
