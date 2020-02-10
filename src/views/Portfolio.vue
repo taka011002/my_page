@@ -15,7 +15,7 @@
                                         GitHub Actionsを用いたCI/CD環境<br>
                                         GitHub Pagesを用いてホスティング<br>
                                     </p>
-                                    <b-img src="portfolio/my_page_deploy_flow.png" style="max-width: 100%;"></b-img>
+                                    <b-img-lazy src="portfolio/my_page_deploy_flow.png" style="max-width: 100%;"></b-img-lazy>
                                 </b-col>
                                 <b-col sm="2">
                                     <a href="https://github.com/taka011002/my_page">GitHub</a>
@@ -39,7 +39,7 @@
                             <b-row class="pb-5">
                                 <b-col sm="12"><strong>2018年 4月 Shopper</strong></b-col>
                                 <b-col sm="5">
-                                    <b-img src="portfolio/shopper.jpg" style="max-width: 100%;"></b-img>
+                                    <b-img-lazy src="portfolio/shopper.jpg" style="max-width: 100%;"></b-img-lazy>
                                 </b-col>
                                 <b-col sm="5">
                                     <p>Rails Tutorialにて学んだ知識のアウトプットとして、ショッピングサイトの構築を行った。</p>
@@ -52,7 +52,7 @@
                             <b-row class="pb-5">
                                 <b-col sm="12"><strong>2018年 3月 Rails Tutorial</strong></b-col>
                                 <b-col sm="5">
-                                    <b-img src="portfolio/rails_tutorial.jpg" style="max-width: 100%;"></b-img>
+                                    <b-img-lazy src="portfolio/rails_tutorial.jpg" style="max-width: 100%;"></b-img-lazy>
                                 </b-col>
                                 <b-col sm="5">
                                     <p>Rails Tutorialにて、webアプリーケーションの大枠について学んだ。</p>
