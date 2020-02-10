@@ -45,15 +45,14 @@ table.spacing-table{
 </style>
 
 <script>
-  import myHeader from './components/Header'
-  import lazyBox from './components/LazyBox'
-  import skills from './views/Skills'
-  import interns from './views/Interns'
-  import aboutMe from './views/AboutMe'
-  // import experiences from './views/Experiences'
-  import portfolio from './views/Portfolio'
-  import other from './views/Other'
-  import links from './views/Links'
+  const myHeader = ()  => import( './components/Header')
+  const lazyBox = ()  => import('./components/LazyBox')
+  const skills = ()  => import( './views/Skills')
+  const interns = ()  => import( './views/Interns')
+  const aboutMe = ()  => import( './views/AboutMe')
+  const portfolio = ()  => import( './views/Portfolio')
+  const other = ()  => import( './views/Other')
+  const links = ()  => import( './views/Links')
 
   export default {
     components: {
@@ -62,7 +61,6 @@ table.spacing-table{
       interns,
       aboutMe,
       lazyBox,
-      // experiences,
       portfolio,
         other,
       links
