@@ -10,16 +10,14 @@
         <lazyBox><portfolio id="portfolio" class="content"></portfolio></lazyBox>
         <lazyBox><other id="other" class="content"></other></lazyBox>
         <lazyBox><links id="links" class="content"></links></lazyBox>
-<!--      <router-view/>-->
     </b-container>
   </div>
 </template>
 
 <style lang="scss">
-/*@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');*/
 
 #app {
-  /*font-family: 'Noto Sans JP', sans-serif;*/
+  font-family: 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', -apple-system, BlinkMacSystemFont, Roboto, '游ゴシック体', YuGothic, 'Yu Gothic Medium', sans-serif;  -webkit-font-smoothing: antialiased;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
