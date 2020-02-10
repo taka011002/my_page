@@ -75,7 +75,7 @@
             return {
                 lazyImage: {
                     center: true,
-                    fluidGrow: true,
+                    fluid: true,
                     blank: true,
                     blankColor: '#bbb',
                 }
