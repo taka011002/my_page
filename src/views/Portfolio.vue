@@ -68,3 +68,18 @@
         </b-col>
     </b-row>
 </template>
+
+<script>
+    export default {
+        data() {
+            return {
+                lazyImage: {
+                    center: true,
+                    fluidGrow: true,
+                    blank: true,
+                    blankColor: '#bbb',
+                }
+            }
+        }
+    }
+</script>
