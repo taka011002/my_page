@@ -5,7 +5,7 @@
         <b-card no-body class="overflow-hidden mx-auto">
           <b-row no-gutters>
             <b-col md="4">
-              <b-card-img-lazy fluid v-bind="lazyImage" src="profile_image.jpg" class="profile-image" style="max-width: 100%;"></b-card-img-lazy>
+              <b-card-img-lazy fluid v-bind="lazyImage" src="profile_image.jpg" class="profile-image" style="max-width: 100%;" alt="profile_image"></b-card-img-lazy>
             </b-col>
             <b-col md="8">
               <b-card-body>
