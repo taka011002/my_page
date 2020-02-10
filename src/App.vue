@@ -66,16 +66,6 @@ table.spacing-table{
       portfolio,
         other,
       links
-    },
-    data () {
-      return {
-        msg: 'Hello World!'
-      }
-    },
-    methods: {
-      clear () {
-        this.msg = ''
-      }
     }
   }
 
