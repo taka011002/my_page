@@ -15,7 +15,7 @@
         data() {
             return {
                 active: false,
-                handleScroll: (e) => {
+                handleScroll: () => {
                     if (window.innerHeight - this.$refs.lazyBox.getBoundingClientRect().top > 0) {
                         this.active = true;
                     }
