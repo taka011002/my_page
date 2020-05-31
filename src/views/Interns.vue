@@ -7,6 +7,33 @@
                         <b-card-text style="text-align: left">
                             <h2 class="font-weight-bold pb-3">Interns</h2>
 
+                            <a href="https://techbowl.co.jp/"><h5 class="font-weight-bold">株式会社Techbowl</h5></a>
+                            <h5>2020年2月~</h5>
+                            <b-row class="pb-3">
+                                <b-col sm="12">
+                                    <p>
+                                        <strong>期間</strong><br>
+                                        2020年2月~<br>
+                                        <strong>内容</strong><br>
+                                        APIサーバーの新規機能の追加改善、及び安定運用<br>
+                                        リファクタ及びリアーキテクチャ<br>
+
+                                        <strong>担当</strong><br>
+                                        サーバーサイド<br>
+                                        <strong>環境・言語</strong><br>
+                                        【言語・フレームワーク】<br>
+                                        PHP | Laravel <br>
+                                        【ミドルウェア】<br>
+                                        Mysql | Docker <br>
+                                        【クラウドサービス】<br>
+                                        ・AWS <br>
+                                        EB | Cloud Watch | Kinesis | Lamda | S3 | Athena<br>
+                                        【アーキテクチャ】<br>
+                                        DDD | Clean Architecture
+                                    </p>
+                                </b-col>
+                            </b-row>
+
                             <a href="https://spectra.tokyo/"><h5 class="font-weight-bold">株式会社Spectra</h5></a>
                             <h5>2019年8月~2019年12月</h5>
                             <b-row class="pb-3">
@@ -31,7 +58,7 @@
                                         Mysql | Docker <br>
                                         【クラウドサービス】<br>
                                         ・AWS <br>
-                                        Cloud Watch | Kinesis | Lamda | S3 | Athena | QuickSight<br>
+                                        ECS | Cloud Watch | Kinesis | Lamda | S3 | Athena | QuickSight<br>
                                     </p>
                                 </b-col>
                             </b-row>
@@ -81,7 +108,7 @@
                                     </p>
                                 </b-col>
                             </b-row>
-                            
+
                             <a href="https://www.future.co.jp/"><h5 class="font-weight-bold">フューチャー株式会社</h5></a>
                             <h5>2019年8月(2週間)</h5>
                             <b-row class="pb-3">

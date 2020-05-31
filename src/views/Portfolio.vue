@@ -6,6 +6,25 @@
                     <b-card-body>
                         <b-card-text style="text-align: left">
                             <h2 class="font-weight-bold pb-5">Portfolio</h2>
+
+                            <b-row class="pb-5">
+                                <b-col sm="12"><strong>2020年<br> 知らない人とオンライン飲み会を気軽にできるサービス Cheers!</strong></b-col>
+                                <b-col sm="5">
+                                    <b-img-lazy v-bind="lazyImage" src="portfolio/cheers.jpg" style="max-width: 100%;" alt="cheers"></b-img-lazy>
+                                </b-col>
+                                <b-col sm="5">
+                                    <p>オンラインハッカソンにて「知らない人とオンライン飲み会を気軽にできるサービス」を開発し、入賞<br>
+                                        主な使用技術としてはNext.js x Typescript x Firebase x Skyway<br>
+                                        詳しくは<a href="https://qiita.com/takahiro_ishitsuka/items/de94f3d6a6890442a132">こちら</a><br>
+                                    </p>
+                                </b-col>
+                                <b-col sm="2">
+                                    <a href="https://qiita.com/takahiro_ishitsuka/items/de94f3d6a6890442a132">Qiita</a><br>
+                                    <a href="https://github.com/yuziroppe/we_wanna_eat_Jiro">GitHub</a><br>
+                                    <a href="https://cheers.reud.net/">デプロイ先</a>
+                                </b-col>
+                            </b-row>
+
                             <b-row class="pb-5">
                                 <b-col sm="5">
                                     <strong>2019年<br> ポートフォリオサイト(現在のページ)</strong>
