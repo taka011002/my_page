@@ -20,7 +20,8 @@
                     APIサーバーの新規機能の追加改善、及び安定運用<br />
                     リファクタ及びリアーキテクチャ<br />
                     テストコードの再設計<br />
-                    インフラのECS移行及び、Terraformを用いたIaC<br />
+                    インフラのECS移行及び、GitHub
+                    Actionsをを用いたCI/CD、Terraformを用いたIaCの構築<br />
 
                     <strong>担当</strong><br />
                     サーバーサイド・インフラ<br />

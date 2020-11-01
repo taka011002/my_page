@@ -11,7 +11,7 @@
                 Ruby(Ruby on Rails) | Swift(iOS Application) | Go | Rust |
                 Python | Kotlin(Android) | Java(Android, Spring Boot) |
                 C#(ASP.NET Core, Unity) | PHP(Laravel) | JS(jQuery, Vue,
-                Node-RED) | HTML | CSS
+                Node-RED) | HTML | CSS | Terraform
               </p>
 
               <h4 class="font-weight-bold">Middleware</h4>
@@ -30,6 +30,9 @@
                 Cloud Storage | Firebase | Cloud Firestore | Cloud
                 Speech-to-Text
               </p>
+
+              <h4 class="font-weight-bold">CI</h4>
+              <p>GitHub Actions | CircleCI</p>
 
               <h4 class="font-weight-bold">Licence</h4>
               <p>基本情報技術者試験</p>
