@@ -17,17 +17,19 @@
                                         <strong>内容</strong><br>
                                         APIサーバーの新規機能の追加改善、及び安定運用<br>
                                         リファクタ及びリアーキテクチャ<br>
+                                        テストコードの再設計<br>
+                                        インフラのECS移行及び、Terraformを用いたIaC<br>
 
                                         <strong>担当</strong><br>
-                                        サーバーサイド<br>
+                                        サーバーサイド・インフラ<br>
                                         <strong>環境・言語</strong><br>
                                         【言語・フレームワーク】<br>
                                         PHP | Laravel <br>
                                         【ミドルウェア】<br>
-                                        Mysql | Docker <br>
+                                        Mysql | Nginx | Docker <br>
                                         【クラウドサービス】<br>
                                         ・AWS <br>
-                                        EB | Cloud Watch | Kinesis | Lamda | S3 | Athena<br>
+                                        EB | ECS | Cloud Watch | Kinesis | Lamda | S3 | Athena | RDS<br>
                                         【アーキテクチャ】<br>
                                         DDD | Clean Architecture
                                     </p>
