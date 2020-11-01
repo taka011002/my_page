@@ -20,9 +20,9 @@
               <h4 class="font-weight-bold">Public cloud</h4>
               <h5 class="font-weight-bold">AWS</h5>
               <p>
-                ECS | ECR | EB | EC2 | S3 | RDS | ELB |CodePipeline | CodeBuild
-                | Kinesis Data Firehose | Athena | QuickSight Lambda |
-                Cloudwatch
+                ECS | ECR | EB | EC2 | S3 | RDS | ELB | CloudFront |
+                CodePipeline | CodeBuild | Kinesis Data Firehose | Athena |
+                QuickSight Lambda | Cloudwatch
               </p>
 
               <h5 class="font-weight-bold">GCP</h5>
