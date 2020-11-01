@@ -47,6 +47,18 @@
                   </b-link>
                 </b-col>
               </b-row>
+              <b-row>
+                <b-col cols="3">
+                  <b-link href="https://taka-rock.hatenablog.com/">
+                    <b-img-lazy
+                      v-bind="lazyImage"
+                      src="icons/hatenablog-logo.svg"
+                      style="max-width: 100%"
+                      alt="blog"
+                    ></b-img-lazy>
+                  </b-link>
+                </b-col>
+              </b-row>
             </b-card-text>
           </b-card-body>
         </b-card>

@@ -6,7 +6,11 @@
           <b-card-body>
             <b-card-text style="text-align: left">
               <h2 class="font-weight-bold pb-3">Other</h2>
-
+              <div style="padding-bottom: 18px">
+                <a href="https://speakerdeck.com/taka0110_"
+                  ><h5 class="font-weight-bold">登壇資料(Speaker Deck)</h5></a
+                >
+              </div>
               <a href="https://mushashugyo.jp/about/"
                 ><h5 class="font-weight-bold">武者修行プログラム</h5></a
               >
