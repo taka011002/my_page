@@ -53,7 +53,7 @@
                     <b-img-lazy
                       v-bind="lazyImage"
                       src="icons/hatenablog-logo.svg"
-                      style="max-width: 100%"
+                      style="max-width: 100%; margin: 12px"
                       alt="blog"
                     ></b-img-lazy>
                   </b-link>
