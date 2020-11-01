@@ -46,103 +46,111 @@
                 </b-col>
               </b-row>
 
-              <b-row class="pb-5">
-                <b-col sm="5">
-                  <strong
-                    >2019年<br />
-                    ポートフォリオサイト(現在のページ)</strong
-                  >
-                </b-col>
-                <b-col sm="5">
-                  <p>
-                    Vue.jsを用いてポートフォリオサイトを制作<br />
-                    GitHub Actionsを用いたCI/CD環境<br />
-                    GitHub Pagesを用いてホスティング<br />
-                  </p>
-                  <b-img-lazy
-                    v-bind="lazyImage"
-                    src="portfolio/my_page_deploy_flow.png"
-                    style="max-width: 100%"
-                    alt="my_page_deploy_flow"
-                  ></b-img-lazy>
-                </b-col>
-                <b-col sm="2">
-                  <a href="https://github.com/taka011002/my_page">GitHub</a>
-                </b-col>
-              </b-row>
+              <div class="more-portfolios" style="display: none">
+                <b-row class="pb-5">
+                  <b-col sm="5">
+                    <strong
+                      >2019年<br />
+                      ポートフォリオサイト(現在のページ)</strong
+                    >
+                  </b-col>
+                  <b-col sm="5">
+                    <p>
+                      Vue.jsを用いてポートフォリオサイトを制作<br />
+                      GitHub Actionsを用いたCI/CD環境<br />
+                      GitHub Pagesを用いてホスティング<br />
+                    </p>
+                    <b-img-lazy
+                      v-bind="lazyImage"
+                      src="portfolio/my_page_deploy_flow.png"
+                      style="max-width: 100%"
+                      alt="my_page_deploy_flow"
+                    ></b-img-lazy>
+                  </b-col>
+                  <b-col sm="2">
+                    <a href="https://github.com/taka011002/my_page">GitHub</a>
+                  </b-col>
+                </b-row>
 
-              <b-row class="pb-5">
-                <b-col sm="5">
-                  <strong
-                    ><strong>2019年<br />iOSアプリの制作</strong></strong
-                  >
-                </b-col>
-                <b-col sm="5">
-                  <p>
-                    Firebase及びCloud
-                    Firestoreを学ぶために簡易的なiOSアプリの作成を行った
-                  </p>
-                </b-col>
-                <b-col sm="2">
-                  <a
-                    href="https://qiita.com/takahiro_ishitsuka/items/c8ed9c0aa4d3257fc7ee"
-                    >Qiita</a
-                  ><br />
-                  <a href="https://github.com/taka011002/monolish">GitHub</a
-                  ><br />
-                  <a href="https://github.com/taka011002/firestore_test_ios"
-                    >GitHub</a
-                  ><br />
-                </b-col>
-              </b-row>
+                <b-row class="pb-5">
+                  <b-col sm="5">
+                    <strong
+                      ><strong>2019年<br />iOSアプリの制作</strong></strong
+                    >
+                  </b-col>
+                  <b-col sm="5">
+                    <p>
+                      Firebase及びCloud
+                      Firestoreを学ぶために簡易的なiOSアプリの作成を行った
+                    </p>
+                  </b-col>
+                  <b-col sm="2">
+                    <a
+                      href="https://qiita.com/takahiro_ishitsuka/items/c8ed9c0aa4d3257fc7ee"
+                      >Qiita</a
+                    ><br />
+                    <a href="https://github.com/taka011002/monolish">GitHub</a
+                    ><br />
+                    <a href="https://github.com/taka011002/firestore_test_ios"
+                      >GitHub</a
+                    ><br />
+                  </b-col>
+                </b-row>
 
-              <b-row class="pb-5">
-                <b-col sm="12"><strong>2018年 4月 Shopper</strong></b-col>
-                <b-col sm="5">
-                  <b-img-lazy
-                    v-bind="lazyImage"
-                    src="portfolio/shopper.jpg"
-                    style="max-width: 100%"
-                    alt="shopper"
-                  ></b-img-lazy>
-                </b-col>
-                <b-col sm="5">
-                  <p>
-                    Rails
-                    Tutorialにて学んだ知識のアウトプットとして、ショッピングサイトの構築を行った。
-                  </p>
-                </b-col>
-                <b-col sm="2">
-                  <a href="https://github.com/taka011002/shopping-site"
-                    >GitHub</a
-                  >
-                </b-col>
-              </b-row>
+                <b-row class="pb-5">
+                  <b-col sm="12"><strong>2018年 4月 Shopper</strong></b-col>
+                  <b-col sm="5">
+                    <b-img-lazy
+                      v-bind="lazyImage"
+                      src="portfolio/shopper.jpg"
+                      style="max-width: 100%"
+                      alt="shopper"
+                    ></b-img-lazy>
+                  </b-col>
+                  <b-col sm="5">
+                    <p>
+                      Rails
+                      Tutorialにて学んだ知識のアウトプットとして、ショッピングサイトの構築を行った。
+                    </p>
+                  </b-col>
+                  <b-col sm="2">
+                    <a href="https://github.com/taka011002/shopping-site"
+                      >GitHub</a
+                    >
+                  </b-col>
+                </b-row>
 
-              <b-row class="pb-5">
-                <b-col sm="12"
-                  ><strong>2018年 3月 Rails Tutorial</strong></b-col
+                <b-row class="pb-5">
+                  <b-col sm="12"
+                    ><strong>2018年 3月 Rails Tutorial</strong></b-col
+                  >
+                  <b-col sm="5">
+                    <b-img-lazy
+                      v-bind="lazyImage"
+                      src="portfolio/rails_tutorial.jpg"
+                      style="max-width: 100%"
+                      alt="rails_tutorial"
+                    ></b-img-lazy>
+                  </b-col>
+                  <b-col sm="5">
+                    <p>
+                      Rails
+                      Tutorialにて、webアプリーケーションの大枠について学んだ。
+                    </p>
+                  </b-col>
+                  <b-col sm="2">
+                    <a href="https://github.com/taka011002/rails_tutorial"
+                      >GitHub</a
+                    >
+                  </b-col>
+                </b-row>
+              </div>
+
+              <div style="text-align: center">
+                <b-button class="portfolio-more-button" @click="openClose()"
+                  >more</b-button
                 >
-                <b-col sm="5">
-                  <b-img-lazy
-                    v-bind="lazyImage"
-                    src="portfolio/rails_tutorial.jpg"
-                    style="max-width: 100%"
-                    alt="rails_tutorial"
-                  ></b-img-lazy>
-                </b-col>
-                <b-col sm="5">
-                  <p>
-                    Rails
-                    Tutorialにて、webアプリーケーションの大枠について学んだ。
-                  </p>
-                </b-col>
-                <b-col sm="2">
-                  <a href="https://github.com/taka011002/rails_tutorial"
-                    >GitHub</a
-                  >
-                </b-col>
-              </b-row>
+              </div>
             </b-card-text>
           </b-card-body>
         </b-card>
@@ -162,6 +170,21 @@ export default {
         blankColor: "#bbb",
       },
     };
+  },
+  methods: {
+    openClose() {
+      var obj = document.getElementsByClassName("more-portfolios");
+      var button = document.querySelector(".portfolio-more-button");
+      for (var i = 0; i < obj.length; i++) {
+        if (obj[i].style.display == "inline-block") {
+          obj[i].style.display = "none";
+          button.innerText = "more";
+        } else {
+          obj[i].style.display = "inline-block";
+          button.innerText = "close";
+        }
+      }
+    },
   },
 };
 </script>
