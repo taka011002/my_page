@@ -5,7 +5,13 @@
         <b-card no-body class="overflow-hidden mx-auto">
           <b-row no-gutters>
             <b-col md="4">
-              <b-card-img-lazy fluid v-bind="lazyImage" src="tokusatsu_kaiju_black.png"> class="profile-image" alt="profile_image"></b-card-img-lazy>
+              <b-card-img-lazy
+                fluid
+                v-bind="lazyImage"
+                src="tokusatsu_kaiju_black.png"
+              >
+                class="profile-image" alt="profile_image"></b-card-img-lazy
+              >
             </b-col>
             <b-col md="8">
               <b-card-body>
@@ -13,23 +19,23 @@
                   <h2 class="font-weight-bold">About Me</h2>
 
                   <p>
-                    エンジニアとして活動している大学生です。<br>
-                    長期インターンを複数社にて経験し、業務として約2年半ほどエンジニアとして携わっています。<br>
-                    分野としてはフロントエンド, ネイティブアプリ, サーバーサイド, インフラと幅広く触れています。<br>
-                    新規事業の立ち上げやスタートアップでのインターン等経験があります。<br>
+                    エンジニアとして活動している大学生です。<br />
+                    長期インターンを複数社にて経験し、業務として約2年半ほどエンジニアとして携わっています。<br />
+                    分野としてはフロントエンド, ネイティブアプリ,
+                    サーバーサイド, インフラと幅広く触れています。<br />
+                    新規事業の立ち上げやスタートアップでのインターン等経験があります。<br />
                   </p>
+                  <h4 class="font-weight-bold">実績</h4>
 
                   <h4 class="font-weight-bold">得意とする分野</h4>
                   <ul>
                     <li>
-                      Ruby及びRuby on Railsを用いたサーバーサイド開発<br>業務にて約1年程の開発経験があります。具体的にはAPI、管理画面、クローラー等を業務にて開発致しました。
+                      Ruby及びRuby on Railsを用いたサーバーサイド開発<br />業務にて約1年程の開発経験があります。具体的にはAPI、管理画面、クローラー等を業務にて開発致しました。
                     </li>
                     <li>
-                      Swiftを用いたネイティブアプリ開発(iOS)<br>業務にて約半年程の開発経験があります。アーキテクチャとしてはVIPERを用いての開発を経験致しました。
+                      Swiftを用いたネイティブアプリ開発(iOS)<br />業務にて約半年程の開発経験があります。アーキテクチャとしてはVIPERを用いての開発を経験致しました。
                     </li>
-                    <li>
-                        AWSを用いたインフラの設計、構築
-                    </li>
+                    <li>AWSを用いたインフラの設計、構築</li>
                   </ul>
                 </b-card-text>
               </b-card-body>
@@ -42,24 +48,24 @@
 </template>
 
 <style scoped lang="scss">
-  .profile-image{
-    padding: 30px 30px;
-    border-radius: 50%;
-    max-width: 100%;
-  }
+.profile-image {
+  padding: 30px 30px;
+  border-radius: 50%;
+  max-width: 100%;
+}
 </style>
 
 <script>
-    export default {
-        data() {
-            return {
-                lazyImage: {
-                    center: true,
-                    fluid: true,
-                    blank: true,
-                    blankColor: '#bbb',
-                }
-            }
-        }
-    }
+export default {
+  data() {
+    return {
+      lazyImage: {
+        center: true,
+        fluid: true,
+        blank: true,
+        blankColor: "#bbb",
+      },
+    };
+  },
+};
 </script>
