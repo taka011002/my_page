@@ -5,10 +5,10 @@
     <b-container>
       <about-me id="about-me" class="content"></about-me>
       <lazyBox><skills id="skills" class="content"></skills></lazyBox>
+      <lazyBox><interns id="interns" class="content"></interns></lazyBox>
       <lazyBox
         ><archievements id="archievements" class="content"></archievements
       ></lazyBox>
-      <lazyBox><interns id="interns" class="content"></interns></lazyBox>
       <lazyBox><portfolio id="portfolio" class="content"></portfolio></lazyBox>
       <lazyBox><other id="other" class="content"></other></lazyBox>
       <lazyBox><links id="links" class="content"></links></lazyBox>
@@ -59,9 +59,9 @@ const links = () => import("./views/Links");
 export default {
   components: {
     myHeader,
-    archievements,
     skills,
     interns,
+    archievements,
     aboutMe,
     lazyBox,
     portfolio,
