@@ -11,6 +11,15 @@
                   ><h5 class="font-weight-bold">登壇資料(Speaker Deck)</h5></a
                 >
               </div>
+
+              <h5 class="font-weight-bold">研究発表</h5>
+              <b-row class="pb-3">
+                <b-col sm="12">
+                  <p>・石塚崇寛, 宮嶋照行, "全二重OFDM伝送におけるニューラルネットワークを用いた非線形干渉抑圧," 電子情報通信学会東京支部学生会研究発表会, 14, Mar. 2021.</p>
+                  <p>・石塚崇寛, 宮嶋照行, 杉谷栄規, "全二重伝送におけるニューラルネットを用いた非線形干渉抑圧," 電子情報通信学会総合大会, A-9-5, Mar. 2021.</p>
+                </b-col>
+              </b-row>
+
               <a href="https://mushashugyo.jp/about/"
                 ><h5 class="font-weight-bold">武者修行プログラム</h5></a
               >

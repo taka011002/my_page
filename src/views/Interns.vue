@@ -5,17 +5,32 @@
         <b-card no-body class="overflow-hidden">
           <b-card-body>
             <b-card-text style="text-align: left">
-              <h2 class="font-weight-bold pb-3">Interns</h2>
+              <h2 class="font-weight-bold pb-3">Experience</h2>
 
-              <a href="https://techbowl.co.jp/"
-                ><h5 class="font-weight-bold">株式会社Techbowl</h5></a
+              <a href="https://www.visional.inc/"
+              ><h5 class="font-weight-bold">株式会社ビズリーチ / ビジョナル株式会社</h5></a
               >
-              <h5>2020年2月~</h5>
+              <h5>2021年4月~</h5>
               <b-row class="pb-3">
                 <b-col sm="12">
                   <p>
                     <strong>期間</strong><br />
-                    2020年2月~<br />
+                    2021年4月~<br />
+                    <strong>内容</strong><br />
+                    ソフトウェアエンジニアとして従事
+                  </p>
+                </b-col>
+              </b-row>
+
+              <a href="https://techbowl.co.jp/"
+                ><h5 class="font-weight-bold">株式会社Techbowl</h5></a
+              >
+              <h5>2020年2月~2020年11月</h5>
+              <b-row class="pb-3">
+                <b-col sm="12">
+                  <p>
+                    <strong>期間</strong><br />
+                    2020年2月~2020年11月<br />
                     <strong>内容</strong><br />
                     APIサーバーの新規機能の追加改善、及び安定運用<br />
                     リファクタ及びリアーキテクチャ<br />

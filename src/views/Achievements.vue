@@ -8,6 +8,16 @@
               <h2 class="font-weight-bold">Archievements</h2>
 
               <div style="padding-bottom: 18px">
+                <h5>2021/02 NTT Performance Tuning Contest 準優勝</h5>
+                <ul>
+                  <li>
+                    <a href="https://nttcom.connpass.com/event/201413/">
+                      イベント詳細
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div style="padding-bottom: 18px">
                 <h5>2020/10 ISUCON10 FINALIST(学生枠)</h5>
                 <ul>
                   <li>

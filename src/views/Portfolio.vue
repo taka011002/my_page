@@ -9,6 +9,68 @@
 
               <b-row class="pb-5">
                 <b-col sm="12"
+                ><strong
+                >2021年<br />
+                  生活習慣バトラー</strong
+                ></b-col
+                >
+                <b-col sm="5">
+                  <b-img-lazy
+                      v-bind="lazyImage"
+                      src="portfolio/life_style_battler.png"
+                      style="max-width: 100%"
+                      alt="life_style_battler"
+                  ></b-img-lazy>
+                </b-col>
+                <b-col sm="5">
+                  <p>
+                    ヤフー株式会社主催<a href="https://hacku.yahoo.co.jp/hacku2020online4/">Open Hack U 2020 Online Vol.4</a>
+                    にて睡眠時間などの健康データを自動で取得し、スコアを毎日算出して、その日のスコアで友人と勝負出来るサービスを開発<br />
+                    主な使用技術としてはNuxt.js x Express x Typescript x MySQL x Google Fit API
+                  </p>
+                </b-col>
+                <b-col sm="2">
+                  <a href="https://drive.google.com/file/d/1P-pBY-TY6UzXTBbNJwey7sRYQRqK-wJQ/view?usp=sharing">発表資料</a
+                  ><br />
+                  <a href="https://github.com/yuziroppe/life_style_battler"
+                  >GitHub</a
+                  ><br />
+                </b-col>
+              </b-row>
+
+              <b-row class="pb-5">
+                <b-col sm="12"
+                ><strong
+                >2021年<br />
+                  How To Be聖徳太子</strong
+                ></b-col
+                >
+                <b-col sm="5">
+                  <b-img-lazy
+                      v-bind="lazyImage"
+                      src="portfolio/how_to_be_syotokutaishi.png"
+                      style="max-width: 100%"
+                      alt="how_to_be_syotokutaishi"
+                  ></b-img-lazy>
+                </b-col>
+                <b-col sm="5">
+                  <p>
+                    サポーターズ社主催<a href="https://talent.supporterz.jp/events/28d759c2-50b4-456d-889b-1f08abf6c053/">ウインターハッカソン〜オンラインでLVupする開発合宿vol.7〜</a>
+                    にて開発テーマ「技育祭をより楽しめるアプリ」にて開発したソフトウェア。講演を複数聞けるように自分の耳をトレーニングできるサービス。<br />
+                    主な使用技術としてはNext.js x Typescript x Firebase
+                  </p>
+                </b-col>
+                <b-col sm="2">
+                  <a href="https://docs.google.com/presentation/d/1DdOCS4oNI10G4QauHDD1cqR2TXWeXqxWZNPAhSKcBeg/edit?usp=sharing">発表資料</a
+                  ><br />
+                  <a href="https://github.com/reud/how_to_be_syotokutaishi"
+                  >GitHub</a
+                  ><br />
+                </b-col>
+              </b-row>
+
+              <b-row class="pb-5">
+                <b-col sm="12"
                   ><strong
                     >2020年<br />
                     知らない人とオンライン飲み会を気軽にできるサービス
