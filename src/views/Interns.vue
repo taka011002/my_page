@@ -10,14 +10,42 @@
               <a href="https://www.visional.inc/"
               ><h5 class="font-weight-bold">株式会社ビズリーチ / ビジョナル株式会社</h5></a
               >
-              <h5>2021年4月~</h5>
+              <h5>2021年6月~</h5>
               <b-row class="pb-3">
                 <b-col sm="12">
                   <p>
                     <strong>期間</strong><br />
-                    2021年4月~<br />
+                    2021年6月~<br />
                     <strong>内容</strong><br />
-                    ソフトウェアエンジニアとして従事
+                    HRMOS 事業部にてソフトウェアエンジニアとして従事<br />
+                    フロントエンド、バックエンド、インフラとフルスタックに開発を担当<br/>
+                    <strong>環境・言語</strong><br />
+                    【言語・フレームワーク】<br />
+                    Kotlin | Spring | Angular | Typescript<br />
+                    【仮想環境/自動化】<br />
+                    Docker | Terraform <br />
+                    【クラウドサービス】<br />
+                    ・AWS <br />
+                  </p>
+                </b-col>
+              </b-row>
+              <b-row class="pb-3">
+                <b-col sm="12">
+                  <p>
+                    <strong>期間</strong><br />
+                    2021年4月~6月<br />
+                    <strong>内容</strong><br />
+                    新卒研修にてSNS開発を行った<br />
+                    執筆記事: <a href="https://engineering.visional.inc/blog/320/newgrads-engineer-training-look-back">Visionalでの「ものづくり」を実体験する新卒研修</a><br />
+                    <strong>環境・言語</strong><br />
+                    【言語・フレームワーク】<br />
+                    Java | Spring | React | Typescript | Next.js | Serverless Framework | Terraform<br />
+                    【ミドルウェア】<br />
+                    Mysql | Nginx | Docker <br />
+                    【クラウドサービス】<br />
+                    ・AWS <br />
+                    ECS | Lambda@Edge | CloudFlont | etc. <br />
+                    ・GitHub Actions <br />
                   </p>
                 </b-col>
               </b-row>
@@ -36,13 +64,13 @@
                     リファクタ及びリアーキテクチャ<br />
                     テストコードの再設計<br />
                     インフラのECS移行及び、GitHub
-                    Actionsをを用いたCI/CD、Terraformを用いたIaCの構築<br />
+                    Actionsを用いたCI/CD、Terraformを用いたIaCの構築<br />
 
                     <strong>担当</strong><br />
                     サーバーサイド・インフラ<br />
                     <strong>環境・言語</strong><br />
                     【言語・フレームワーク】<br />
-                    PHP | Laravel <br />
+                    PHP | Laravel | Terraform<br />
                     【ミドルウェア】<br />
                     Mysql | Nginx | Docker <br />
                     【クラウドサービス】<br />

@@ -8,10 +8,9 @@
               <h2 class="font-weight-bold">Skills</h2>
               <h4 class="font-weight-bold">Language&Framework</h4>
               <p>
-                Ruby(Ruby on Rails) | Swift(iOS Application) | Go | Rust |
-                Python | Kotlin(Android) | Java(Android, Spring Boot) |
-                C#(ASP.NET Core, Unity) | PHP(Laravel) | JS(jQuery, Vue,
-                Node-RED) | HTML | CSS | Terraform
+                Kotlin(Spring Boot, Android) | Java(Spring, Android) |
+                Typescript(React, Vue, Angular) | Ruby(Ruby on Rails) | PHP(Laravel) | Python | Swift(iOS) | Go | Rust |
+                C#(ASP.NET Core, Unity) | HTML | CSS | Terraform
               </p>
 
               <h4 class="font-weight-bold">Middleware</h4>
@@ -22,7 +21,7 @@
               <p>
                 ECS | ECR | EB | EC2 | S3 | RDS | ELB | CloudFront |
                 CodePipeline | CodeBuild | Kinesis Data Firehose | Athena |
-                QuickSight Lambda | Cloudwatch
+                QuickSight | Lambda | Cloudwatch
               </p>
 
               <h5 class="font-weight-bold">GCP</h5>
